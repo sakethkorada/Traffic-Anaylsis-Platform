@@ -1,0 +1,8 @@
+# requirements.txt
+ultralytics
+opencv-python
+fastapi[all]
+boto3
+pandas
+pyarrow
+python-dotenv
